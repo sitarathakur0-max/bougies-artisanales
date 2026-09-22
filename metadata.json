@@ -1,0 +1,6 @@
+{
+  "name": "Bougies Artisanales",
+  "description": "Artisan candle studio in Montpellier creating handmade scented candles and decorative pieces for homes and gifts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
